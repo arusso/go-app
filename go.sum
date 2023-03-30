@@ -1,0 +1,4 @@
+github.com/arusso/go-modtest v1.0.1 h1:gpTZQvc+9oHlySl8qyqRb4CEbaALcxTW+Bv6msEiFw0=
+github.com/arusso/go-modtest v1.0.1/go.mod h1:ffnJ0s0DVgyE/izWFqmgj94BoWx7qZbTeDUi1nGSxHI=
+github.com/arusso/go-modtest/v2 v2.0.1 h1:QgdQg35x25cW27XkePdqVwaCS+2kwnvUAZfeDaSCLi4=
+github.com/arusso/go-modtest/v2 v2.0.1/go.mod h1:trjjyNYz9vkEwE3hY7ufAiFy54jYOc+rHSFpgosbyMI=
